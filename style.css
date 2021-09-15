@@ -44,7 +44,7 @@ body {
 }
 
 .cta:hover {
-  background-color: #e3ae58;
+  background-color:#e3ae58;
   border-color: #e3ae58;
   color: white;
 }
@@ -58,7 +58,7 @@ body {
       -ms-flex: 1 1 50%;
           flex: 1 1 50%;
   font-family: nunito;
-  background-color: #f1e2d7;
+ background-color: #f1e2d7;
 }
 
 @media (max-width: 768px) {
@@ -209,7 +209,7 @@ body {
   -webkit-box-flex: 1;
       -ms-flex: 1 1 50%;
           flex: 1 1 50%;
-  background-color: #e3ae57;
+  background-color: #c4c9ca;
 }
 
 @media (max-width: 768px) {
@@ -386,7 +386,7 @@ body {
 }
 
 .exp__info--brown {
-  background: #e9754e;
+  background: #bed160;
 }
 
 .exp__info--yellow {
@@ -481,8 +481,8 @@ body {
 }
 
 .scroll-down {
-  -webkit-box-shadow: 0 0.5rem 0.8rem rgba(0, 0, 0, 0.1);
-          box-shadow: 0 0.5rem 0.8rem rgba(0, 0, 0, 0.1);
+  -webkit-box-shadow: 0 0.5rem 0.8rem rgba(141, 54, 54, 0.1);
+          box-shadow: 0 0.5rem 0.8rem rgba(156, 77, 77, 0.1);
   background-color:white!important;
 }
 
